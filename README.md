@@ -68,7 +68,7 @@
 
 - 💼 GitHub: https://github.com/prottaymojumder17
 - 🔗 LinkedIn: https://linkedin.com/in/prottay-mojumder
-<!-- 🌐 Portfolio: https://your-portfolio-link
+<!-- 🌐 Portfolio: https://your-portfolio-link-->
 
 ---
 
