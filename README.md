@@ -18,6 +18,7 @@
 ### 💻 Programming Languages
 - C
 - C++
+- Java
 - Python
 - JavaScript
 
@@ -25,6 +26,7 @@
 - HTML
 - CSS
 - JavaScript
+- Angular
 
 ### 🧰 Tools & Platforms
 - Git
