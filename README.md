@@ -7,7 +7,7 @@
 
 - 🎓 I am a **Software Engineering student**
 - 💻 I love working with **Web Development & Programming**
-- 🌱 Currently learning **JavaScript, Git & GitHub**
+- 🌱 Currently learning **Java, Git & GitHub**
 - 🚀 Goal: Become a **professional software developer**
 - 📫 Email: **prottaymojumder695@gmail.com**
 
