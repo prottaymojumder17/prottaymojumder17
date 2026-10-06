@@ -1,83 +1,27 @@
-# 👋 Hi, I'm Prottay Mojumder
-### 🚀 BSc in Software Engineering Student | Aspiring Machine Learning Engineer 🧠
+# 💫 About Me:
+- 🔭 I’m currently working on **BSc in Software Engineering (SWE)**<br>- 👯 I’m looking to collaborate on **Machine Learning and Open Source Projects**<br>- 💬 Ask me about **React, Vue, GSAP, and Frontend Web Development**<br>- 📫 How to reach me: **prottaymojumder695@gmail.com**<br>- ⚡ Fun fact: **I think I am funny**<br>
 
-<p align="left">
-  <img src="https://komarev.com" alt="prottaymojumder17" />
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niloy.7.prottay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prottay_19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prottaymojumder17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prottay.dev10@gmail.com) 
 
-### 💫 About Me:
-- 🎓 Currently pursuing my **BSc in Software Engineering (SWE)**
-- 🔭 I’m building strong foundations in Software Architecture while exploring **Data Science and Machine Learning**
-- 🌱 Learning path: Mastered Core Programming ➡️ Deep Diving into **ML Algorithms, Math for ML, and Data Analytics**
-- 👯 Looking to collaborate on **Open Source ML/AI Projects** and Full-Stack applications
-- 💬 Ask me about **Python, Software Design Patterns, Data Structures, or Web Dev**
-- 📫 Connect with me via Email: **prottay.dev10@gmail.com**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prottaymojumder17&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=prottaymojumder17&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prottaymojumder17&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prottaymojumder17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <!-- Core & ML Languages -->
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="c" width="40" height="40"/>
-  </a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-  <!-- SWE & ML Frameworks / Libraries -->
-  <a href="https://pydata.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
-    <img src="https://wikimedia.org" alt="scikit-learn" width="40" height="40"/>
-  </a>
-
-  <!-- Web Tech (Essential for deploying ML Models) -->
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- Database & DevOps -->
-  <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=prottaymojumder17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=prottaymojumder17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="YOUR-LINKEDIN-USERNAME" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://githubusercontent.com" alt="YOUR-TWITTER-USERNAME" height="30" width="40" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats & Activity:
-<p align="center">
-  <img src="https://vercel.app" alt="YOUR-GITHUB-USERNAME Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="YOUR-GITHUB-USERNAME Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Top Langs" width="60%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
