@@ -1,88 +1,83 @@
-<h1 align="center">Hi 👋, I'm Prottay Mojumder</h1>
-<h3 align="center">Software Engineering Student | Aspiring Developer</h3>
+# 👋 Hi, I'm Prottay Mojumder
+### 🚀 BSc in Software Engineering Student | Aspiring Machine Learning Engineer 🧠
 
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 I am a **Software Engineering student**
-- 💻 I love working with **Web Development & Programming**
-- 🌱 Currently learning **Java, Git & GitHub**
-- 🚀 Goal: Become a **professional software developer**
-- 📫 Email: **prottaymojumder695@gmail.com**
-
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
-- C
-- C++
-- Java
-- Python
-- JavaScript
-
-### 🌐 Web Technologies
-- HTML
-- CSS
-- JavaScript
-- Angular
-
-### 🧰 Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Windows
-
----
-
-## 📂 Projects
-
-### 🔹 Portfolio Website
-- Personal portfolio using HTML & CSS  
-- 🔗 Live: https://your-website-link  
-- 📁 Code: https://github.com/username/repo-name  
-
-### 🔹 Student Management System
-- Simple console-based project in C/C++
-- Handles student records
-
-### 🔹 Mini Python Projects
-- Calculator
-- Number guessing game
-- Pattern printing
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<p align="left">
+  <img src="https://komarev.com" alt="prottaymojumder17" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
-
-- 💼 GitHub: https://github.com/prottaymojumder17
-- 🔗 LinkedIn: https://linkedin.com/in/prottay-mojumder
-<!-- 🌐 Portfolio: https://your-portfolio-link-->
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/prottaymojumder17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prottay-mojumder/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/prottaym17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/prottaymojumder7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/prottay17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/prottay1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/niloy17)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/prottay17)  
-
+### 💫 About Me:
+- 🎓 Currently pursuing my **BSc in Software Engineering (SWE)**
+- 🔭 I’m building strong foundations in Software Architecture while exploring **Data Science and Machine Learning**
+- 🌱 Learning path: Mastered Core Programming ➡️ Deep Diving into **ML Algorithms, Math for ML, and Data Analytics**
+- 👯 Looking to collaborate on **Open Source ML/AI Projects** and Full-Stack applications
+- 💬 Ask me about **Python, Software Design Patterns, Data Structures, or Web Dev**
+- 📫 Connect with me via Email: **prottay.dev10@gmail.com**
 
 ---
 
-## ✨ Fun Fact
+### 🛠️ Languages and Tools:
+<p align="left">
+  <!-- Core & ML Languages -->
+  <a href="https://python.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://cprogramming.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="c" width="40" height="40"/>
+  </a>
 
-> “Consistency is more important than talent.”
+  <!-- SWE & ML Frameworks / Libraries -->
+  <a href="https://pydata.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://wikimedia.org" alt="scikit-learn" width="40" height="40"/>
+  </a>
+
+  <!-- Web Tech (Essential for deploying ML Models) -->
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <!-- Database & DevOps -->
+  <a href="https://mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://vectorlogo.zone" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
-⭐ **If you like my work, give a star to my repositories!**
+### 🌐 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="YOUR-LINKEDIN-USERNAME" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://githubusercontent.com" alt="YOUR-TWITTER-USERNAME" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity:
+<p align="center">
+  <img src="https://vercel.app" alt="YOUR-GITHUB-USERNAME Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="YOUR-GITHUB-USERNAME Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Top Langs" width="60%" />
+</p>
